@@ -1,0 +1,2 @@
+# problems
+when learning python
